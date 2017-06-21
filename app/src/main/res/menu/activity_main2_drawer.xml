@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_share1"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/rahaf" />
+        <item
+            android:id="@+id/nav_send1"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/khaled" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/marksnote" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/notifications" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/conversations" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/material" />
+        <item
+            android:id="@+id/nav_sc"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/studentComunity" />
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/help" />
+        <item
+            android:id="@+id/nav_send3"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/rate" />
+        <item
+            android:id="@+id/nav_send4"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/schoolIndex" />
+    </group>
+
+</menu>

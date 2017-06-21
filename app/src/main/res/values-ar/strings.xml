@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School</string>
+    <string name="ahmed">احمد</string>
+    <string name="dummy_button"></string>
+    <string name="child">child2</string>
+    <string name="holyhuran">القرآن الكريم</string>
+    <string name="arabic">اللغة العربية</string>
+    <string name="math">رياضيات</string>
+    <string name="english">اللغة الانجليزية</string>
+    <string name="material">المواد</string>
+    <string name="today">اليوم</string>
+    <string name="month">الشهر</string>
+    <string name="isalmic">اسلامية</string>
+    <string name="science">علوم</string>
+    <string name="news">الاخبار</string>
+    <string name="certificate">شهادة شكر وتقدير</string>
+    <string name="medal">لقب افضل لاعب بالمدرسة</string>
+    <string name="marksnote">دفتر العلامات</string>
+    <string name="notifications">الاشعارات</string>
+    <string name="conversations">المحادثات</string>
+    <string name="bazaar">تقارير البازار الخيري لدعم مرضى السرطان</string>
+    <string name="trip">صور رحلة ابطال المدرسه الى المزرعه</string>
+    <string name="honoring">صور تكريم عباقرة المدرسه</string>
+    <string name="parentCouncil">مخرجات اجتماع مجلس الاباء الثالث</string>
+    <string name="help">مساعدة</string>
+    <string name="language">اللغة</string>
+    <string name="schoolIndex">دليل المدرسة</string>
+    <string name="rate">تقييم التطبيق</string>
+    <string name="khaled">خالد آدم</string>
+    <string name="rahaf">رهف آدم</string>
+    <string name="sc1">ابطال دوري المدارس</string>
+    <string name="sc2">ابنائنا يشاركون في حملة هندسة البيئة</string>
+    <string name="sc3">احلى رحله مع احلى شباب</string>
+    <string name="sc4">تخرج الدفعه السابعه</string>
+    <string name="sc01">ادارة المدرسة</string>
+    <string name="sc02">مربية الفصل السابع</string>
+    <string name="sc03">فيصل القاسمي</string>
+    <string name="sc04">لوجين عادل</string>
+    <string name="section_format"></string>
+    <string name="studentComunity">مجتمع الطلاب</string>
+</resources>

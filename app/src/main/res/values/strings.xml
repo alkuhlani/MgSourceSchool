@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">School</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ahmed">ahmed</string>
+    <string name="child">child</string>
+    <string name="holyhuran">Holy Quran</string>
+    <string name="arabic">Arabic</string>
+    <string name="math">Math</string>
+    <string name="english">English</string>
+    <string name="today">Today</string>
+    <string name="month">Month</string>
+    <string name="material">Material</string>
+    <string name="isalmic">Islamic</string>
+    <string name="science">Science</string>
+    <string name="news">News</string>
+    <string name="certificate">Certificate of Thanks and Appreciation</string>
+    <string name="medal">Medal of the best player in the school</string>
+    <string name="marksnote">Marks Note</string>
+    <string name="notifications">Notifications</string>
+    <string name="conversations">Conversations</string>
+    <string name="parentCouncil">Parent Council</string>
+    <string name="bazaar">Bazaar</string>
+    <string name="trip">trip</string>
+    <string name="honoring">honoring</string>
+    <string name="help">help</string>
+    <string name="language">Language</string>
+    <string name="schoolIndex">School Index</string>
+    <string name="rate">Rate</string>
+    <string name="rahaf">Rahaf</string>
+    <string name="khaled">Khaled</string>
+    <string name="sc1">sc</string>
+    <string name="sc2">sc</string>
+    <string name="sc3">sc</string>
+    <string name="sc4">sc</string>
+    <string name="sc01">sc</string>
+    <string name="sc02">sc</string>
+    <string name="sc03">sc</string>
+    <string name="sc04">sc</string>
+    <string name="studentComunity">studentComunity</string>
+</resources>

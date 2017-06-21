@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">School</string>
+    <string name="ahmed">ahmed</string>
+    <string name="child">child</string>
+    <string name="holyhuran">Holy Quran</string>
+    <string name="arabic">Arabic Language</string>
+    <string name="math">Math</string>
+    <string name="english">English Language</string>
+    <string name="hello_blank_fragment"></string>
+    <string name="material">Material</string>
+    <string name="month">Month</string>
+    <string name="today">Today</string>
+    <string name="isalmic">Islamic</string>
+    <string name="science">Science</string>
+    <string name="news">News</string>
+    <string name="certificate">Certificate of Thanks and Appreciation</string>
+    <string name="medal">Medal of the best player in the school</string>
+    <string name="marksnote">Marks Note</string>
+    <string name="notifications">Notifications</string>
+    <string name="conversations">Conversations</string>
+    <string name="parentCouncil">Results of the Third Parent Council Meeting</string>
+    <string name="bazaar">Reports Bazaar charity to support cancer patients</string>
+    <string name="trip">Photos of the trip of the school teachers to the farm</string>
+    <string name="honoring">Photos honoring school geniuses</string>
+    <string name="help">Help</string>
+    <string name="language">Language</string>
+    <string name="schoolIndex">School Index</string>
+    <string name="rate">App Rating</string>
+    <string name="khaled">Khaled Adam</string>
+    <string name="rahaf">Rahaf Adam</string>
+    <string name="sc1">Champions League Schools</string>
+    <string name="sc2">Our children are participating in the environmental engineering campaignOur children are participating in the environmental engineering campaign</string>
+    <string name="sc3">The best trip with the best young</string>
+    <string name="sc4">Graduation of the seventh batch</string>
+    <string name="sc01">MegaSource Administration</string>
+    <string name="sc02">Seven Class Nanny</string>
+    <string name="sc03">Faisal Algasemi</string>
+    <string name="sc04">Logain Adel</string>
+    <string name="studentComunity">Student Comunity</string>
+</resources>
